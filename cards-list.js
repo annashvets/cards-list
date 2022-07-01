@@ -12,7 +12,7 @@ export default class CardList {
   getTemplate () {
     return `
       <div>
-        <div class = "wrapper col-m-8 col-l-8" data-element = "body">
+        <div class = "wrapper col-m-11 col-l-10" data-element = "body">
           <!-- Cards list -->
         </div>
       </div>

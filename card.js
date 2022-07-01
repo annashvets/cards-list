@@ -7,7 +7,7 @@ export default class Card {
   
     getTemplate () {
       const result =  `
-      <div class="card-wrapper col-m-6 col-l-4">
+      <div class="card-wrapper">
         <div class="card-component-box col-12">
           <div class="card-content">
             <div class="card-product-image">
